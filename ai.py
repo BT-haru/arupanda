@@ -108,7 +108,7 @@ def simulate_move(board, stone, x, y):
 class PandaAI(object):
 
     def face(self):
-        return "🐇"
+        return "🐼1"
 
     def place(self, board, stone):
         x, y = random_place(board, stone)
