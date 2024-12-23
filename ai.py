@@ -1,4 +1,3 @@
-!pip install -U kogi-canvas
 
 import random
 
