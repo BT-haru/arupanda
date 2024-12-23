@@ -150,7 +150,7 @@ def best_place_with_risk_management(board, stone):
 
     return best_move
 
-class PandaAI(object):
+class ＡruAI(object):
 
     def face(self):
         return "🐰"
@@ -171,5 +171,3 @@ class PandaAI(object):
             return best_move
 
         return best_place_with_risk_management(board, stone)
-
-play_othello(PandaAI())
