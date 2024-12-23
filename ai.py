@@ -150,7 +150,7 @@ def best_place_with_risk_management(board, stone):
 
     return best_move
 
-class ＡruAI(object):
+class AruAI(object):
 
     def face(self):
         return "🐰"
